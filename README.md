@@ -1,7 +1,7 @@
 # Imagine Weight: Your Personal Weight Tracker
 
 <p align="center">   
-   <img src="/screenshot/logo.png" alt="Imagine Weight Logo" width="600" height="280"/> 
+   <img src="/Screenshot/Screenshot3.png" alt="Imagine Weight Logo" width="600" height="280"/> 
 </p>
 
 **Imagine Weight** is an innovative weight tracking app designed to help you monitor your weight and maintain a healthy lifestyle. With a seamless user interface, personalized notifications, and daily reminders to measure your weight, Imagine Weight makes tracking your weight history easier than ever.
@@ -26,7 +26,7 @@
 ## Screenshots
 
 <p align="center">   
-   <img src="screenshot/Screenshot.png" alt="Home Screen"/> 
+   <img src="Screenshot/Screenshot.png" alt="Home Screen"/> 
 </p> 
 
 
