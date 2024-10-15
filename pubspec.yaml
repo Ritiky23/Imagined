@@ -17,6 +17,7 @@ dependencies:
   permission_handler: ^10.2.0
   flutter_datetime_picker: ^1.5.1
   rxdart: ^0.28.0
+  flutter_native_splash: ^2.2.16
 
 
 dev_dependencies:
@@ -30,6 +31,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/animations/logo.png
+    - assets/animations/logo2.png
     - assets/animations/female.json
     - assets/animations/male2.json
   fonts:
@@ -38,7 +40,16 @@ flutter:
         - asset: assets/animations/poppinsFont/Poppins-Regular.ttf
         - asset: assets/animations/poppinsFont/Poppins-Bold.ttf
           weight: 700
-flutter_icons:
+
+
+
+flutter_native_splash:
+  color: "#048c2c" # Background color for splash screen
+  image: assets/animations/logo2.png # Path to the logo image assets\animations\logo2.png
   android: true
   ios: true
-  image_path: "assets/animations/logo.png"
+  fullscreen: true
+
+android 12:
+  color: "#048c2c"
+  image: assets/animations/logo2.png 
