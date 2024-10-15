@@ -40,5 +40,5 @@
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Ritiky23/imagine_weight.git
+   git clone https://github.com/Ritiky23/Imagined.git
 
